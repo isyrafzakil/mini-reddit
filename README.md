@@ -6,4 +6,9 @@ Play with Data Model and Rails powerful ORM, the Active Records.
 * Ruby on Rails
 * Ruby
 
-[Project Source](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+### Written by 
+```
+Isyraf Zakil
+```
+
+[THE ODIN PROJECT: BUILDING WITH ACTIVE RECORD](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
